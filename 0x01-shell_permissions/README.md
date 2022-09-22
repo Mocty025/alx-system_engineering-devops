@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that change the outpout style of file hello
+a script that sets the mode of the file hello the same as olleh’s mode
